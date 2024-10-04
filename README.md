@@ -16,7 +16,6 @@ I am an Internet application specialist with almost 30 years of experience desig
 - [Laravel](https://laravel.com/)
 - [Laravel Livewire](https://laravel-livewire.com/)
 - [Alpine.js](https://alpinejs.dev/)
-- [Vue.js](https://vuejs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [MySQL](https://www.mysql.com/)
 - [Node.js](https://nodejs.org/)
