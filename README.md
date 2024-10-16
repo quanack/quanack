@@ -1,7 +1,7 @@
 # Jason Poole (Quanack)
 
 👋 Hi, I'm Jason. I am a Senior Software Engineer at [Stand Together](https://standtogether.org). 
-I am an Internet application specialist with 30+ years of experience designing front-end and back-end, creating LAMP solutions. I have created solutions for such companies as [National Geographic](http://www.nationalgeographic.com/), [Scripps Networks](http://www.scrippsnetworksinteractive.com/), [Time Warner Cable](http://www.timewarnercable.com/), [America Online](http://www.aol.com/), [Smithsonian Institute](http://www.si.edu/), and [Verisign](http://www.verisign.com/). I have also worked with Government agencies such as the [Department of Defense](http://www.defense.gov/), [Department of Justice](http://www.justice.gov/), and the [Department of Education](http://www.ed.gov/).
+I am an Internet application specialist with 30+ years of experience designing front-end and back-end, creating LAMP solutions. I have developed solutions for such companies as [National Geographic](https://www.nationalgeographic.com/), [Scripps Networks](https://en.wikipedia.org/wiki/Scripps_Networks_Interactive), [Time Warner Cable](https://en.wikipedia.org/wiki/Time_Warner_Cable), [America Online](https://www.aol.com/), [Smithsonian Institute](https://www.si.edu/), and [Verisign](https://www.verisign.com/). I have also worked with Government agencies such as the [Department of Defense](https://www.defense.gov/), [Department of Justice](https://www.justice.gov/), and the [Department of Education](https://www.ed.gov/).
 
 ## 🧅 About Me
 
