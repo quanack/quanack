@@ -6,7 +6,7 @@ I am an Internet application specialist with 30+ years of experience designing f
 ## 🧅 About Me
 
 - ⚓ I am a proud veteran of the [United States Navy](http://www.navy.mil/)
-- 📓 I am constantly learning new tools and focusing a lot of time recently on [Javascript](https://www.javascript.com/)/[Typescript](https://www.typescriptlang.org/) and [Vue.js](https://vuejs.org/)
+- 📓 I am constantly learning new tools and focusing a lot of time recently on [Laravel](https://laravel.com/), [Alpine.js](https://alpinejs.dev/) and [Laravel Livewire](https://laravel-livewire.com/)
 - 📫 How to reach me: `${firstname}@${fullname}.com`
 - 🤪 Fun fact: I am an avid 🏒 ice hockey player and 🎾 tennis player.
 
