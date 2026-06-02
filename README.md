@@ -8,7 +8,7 @@ I am an Internet application specialist with 30+ years of experience designing f
 - ⚓ I am a proud veteran of the [United States Navy](http://www.navy.mil/)
 - 📓 I am constantly learning new tools and focusing a lot of time recently on [Laravel](https://laravel.com/), [Alpine.js](https://alpinejs.dev/) and [Laravel Livewire](https://laravel-livewire.com/)
 - 📫 How to reach me: `${firstname}@${fullname}.com`
-- 🤪 Fun fact: I am an avid 🏒 ice hockey player and 🎾 tennis player.
+- 🤪 Fun fact: I am an avid 🏒 ice hockey player and 🎾 tennis/pickleball player.
 
 ## 🖥️ Skills/Tools I Like To Use
 
