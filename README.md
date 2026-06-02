@@ -19,3 +19,6 @@ I am an Internet application specialist with 30+ years of experience designing f
 - [TypeScript](https://www.typescriptlang.org/)
 - [MySQL](https://www.mysql.com/)
 - [Node.js](https://nodejs.org/)
+
+- [Wordpress](https://wordpress.org/)
+- [Drupal](https://new.drupal.org/)
